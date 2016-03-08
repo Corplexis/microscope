@@ -222,6 +222,10 @@
       "path": "packages/standard-minifiers.js"
     },
     {
+      "sourceMap": "packages/twbs_bootstrap.js.map",
+      "path": "packages/twbs_bootstrap.js"
+    },
+    {
       "sourceMap": "packages/livedata.js.map",
       "path": "packages/livedata.js"
     },
@@ -247,10 +251,6 @@
     },
     {
       "path": "packages/global-imports.js"
-    },
-    {
-      "sourceMap": "app/microscope.js.map",
-      "path": "app/microscope.js"
     }
   ]
 }
