@@ -550,6 +550,17 @@
       "hash": "af67437fd606dadafb22ec5e8bfc6ca8314a60ad"
     },
     {
+      "path": "app/client/template.main.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/app/client/template.main.js?cc1f30daad9cb30b6bc26338225d76197cc75bc3",
+      "sourceMap": "app/client/template.main.js.map",
+      "sourceMapUrl": "/app/client/cc1f30daad9cb30b6bc26338225d76197cc75bc3.map",
+      "size": 509,
+      "hash": "cc1f30daad9cb30b6bc26338225d76197cc75bc3"
+    },
+    {
       "path": "app/client/main.js",
       "where": "client",
       "type": "js",
@@ -615,6 +626,21 @@
       "url": "/packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.woff2",
       "size": 18028,
       "hash": "ca35b697d99cae4d1b60f2d60fcd37771987eb07"
+    },
+    {
+      "path": "app/test.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/test.html",
+      "size": 0,
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "head.html",
+      "where": "internal",
+      "type": "head",
+      "hash": "aef618e5b8999bf51c737ed23879588e426044d1"
     }
   ]
 }
