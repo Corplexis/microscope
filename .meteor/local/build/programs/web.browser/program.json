@@ -550,6 +550,17 @@
       "hash": "af67437fd606dadafb22ec5e8bfc6ca8314a60ad"
     },
     {
+      "path": "app/client/templates/posts/template.posts_list.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/app/client/templates/posts/template.posts_list.js?012c8fb669aeedfccdc4a9748d8f6c57c165e3e5",
+      "sourceMap": "app/client/templates/posts/template.posts_list.js.map",
+      "sourceMapUrl": "/app/client/templates/posts/012c8fb669aeedfccdc4a9748d8f6c57c165e3e5.map",
+      "size": 412,
+      "hash": "012c8fb669aeedfccdc4a9748d8f6c57c165e3e5"
+    },
+    {
       "path": "app/client/template.main.js",
       "where": "client",
       "type": "js",
