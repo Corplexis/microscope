@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="142d7873-8f1b-40b0-8d2e-1af0c036f5dd" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/db/mongod.lock" afterPath="$PROJECT_DIR$/.meteor/local/db/mongod.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/.node_version.txt" afterPath="$PROJECT_DIR$/.meteor/local/build/.node_version.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/README" afterPath="$PROJECT_DIR$/.meteor/local/build/README" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/main.js" afterPath="$PROJECT_DIR$/.meteor/local/build/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/assets/packages/boilerplate-generator/boilerplate_web.browser.html" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/assets/packages/boilerplate-generator/boilerplate_web.browser.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/assets/packages/boilerplate-generator/boilerplate_web.cordova.html" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/assets/packages/boilerplate-generator/boilerplate_web.cordova.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/boot-utils.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/boot-utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/boot.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/boot.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/config.json" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/config.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/mini-files.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/mini-files.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/npm-shrinkwrap.json" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/npm-shrinkwrap.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/autopublish.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/autopublish.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/autoupdate.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/autoupdate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/babel-compiler.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/babel-compiler.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/babel-runtime.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/babel-runtime.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/base64.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/base64.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/binary-heap.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/binary-heap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/blaze-html-templates.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/blaze-html-templates.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/blaze-tools.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/blaze-tools.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/blaze.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/blaze.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/boilerplate-generator.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/boilerplate-generator.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/callback-hook.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/callback-hook.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/check.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/check.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/ddp-client.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/ddp-client.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/ddp-common.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/ddp-common.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/ddp-server.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/ddp-server.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/ddp.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/ddp.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/deps.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/deps.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/diff-sequence.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/diff-sequence.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/ecmascript-runtime.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/ecmascript-runtime.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/ecmascript.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/ecmascript.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/ejson.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/ejson.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/es5-shim.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/es5-shim.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/geojson-utils.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/geojson-utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/global-imports.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/global-imports.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/hot-code-push.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/hot-code-push.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/html-tools.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/html-tools.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/htmljs.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/htmljs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/id-map.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/id-map.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/insecure.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/insecure.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/jquery.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/launch-screen.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/launch-screen.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/livedata.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/livedata.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/logging.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/logging.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/meteor-base.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/meteor-base.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/meteor.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/meteor.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/minimongo.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/minimongo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/mobile-experience.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/mobile-experience.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/mongo-id.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/mongo-id.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/mongo.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/mongo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/npm-mongo.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/npm-mongo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/observe-sequence.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/observe-sequence.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/ordered-dict.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/ordered-dict.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/promise.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/promise.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/random.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/random.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/reactive-var.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/reactive-var.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/reload.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/reload.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/retry.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/retry.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/routepolicy.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/routepolicy.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/session.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/session.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/spacebars-compiler.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/spacebars-compiler.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/spacebars.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/spacebars.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/standard-minifiers.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/standard-minifiers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/templating.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/templating.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/tracker.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/tracker.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/twbs_bootstrap.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/twbs_bootstrap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/ui.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/ui.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/underscore.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/underscore.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/webapp-hashing.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/webapp-hashing.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/webapp.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/packages/webapp.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/program.json" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/program.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/server/shell-server.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/server/shell-server.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/app/client/main.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/app/client/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/app/client/template.main.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/app/client/template.main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/merged-stylesheets.css" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/merged-stylesheets.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/autopublish.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/autopublish.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/autoupdate.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/autoupdate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/babel-compiler.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/babel-compiler.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/babel-runtime.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/babel-runtime.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/base64.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/base64.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/blaze-html-templates.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/blaze-html-templates.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/blaze.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/blaze.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/check.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/check.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/ddp-client.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/ddp-client.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/ddp-common.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/ddp-common.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/ddp-server.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/ddp-server.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/ddp.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/ddp.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/deps.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/deps.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/diff-sequence.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/diff-sequence.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/ecmascript-runtime.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/ecmascript-runtime.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/ecmascript.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/ecmascript.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/ejson.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/ejson.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/es5-shim.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/es5-shim.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/geojson-utils.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/geojson-utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/global-imports.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/global-imports.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/hot-code-push.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/hot-code-push.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/htmljs.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/htmljs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/id-map.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/id-map.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/insecure.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/insecure.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/jquery.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/launch-screen.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/launch-screen.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/livedata.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/livedata.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/meteor-base.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/meteor-base.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/meteor.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/meteor.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/minimongo.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/minimongo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/mobile-experience.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/mobile-experience.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/mongo-id.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/mongo-id.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/mongo.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/mongo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/observe-sequence.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/observe-sequence.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/ordered-dict.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/ordered-dict.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/promise.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/promise.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/random.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/random.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/reactive-dict.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/reactive-dict.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/reactive-var.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/reactive-var.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/reload.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/reload.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/retry.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/retry.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/session.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/session.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/spacebars.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/spacebars.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/standard-minifiers.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/standard-minifiers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/templating.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/templating.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/tracker.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/tracker.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/twbs_bootstrap.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/twbs_bootstrap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/ui.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/ui.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/underscore.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/underscore.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/webapp.js" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/packages/webapp.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/program.json" afterPath="$PROJECT_DIR$/.meteor/local/build/programs/web.browser/program.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/build/star.json" afterPath="$PROJECT_DIR$/.meteor/local/build/star.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/local/shell/info.json" afterPath="$PROJECT_DIR$/.meteor/local/shell/info.json" />
+    </list>
+    <ignored path="microscope.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="microscope" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="posts_list.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/templates/posts/posts_list.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.576923">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="post_item.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/templates/posts/post_item.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.9230769">
+              <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="post_item.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/client/templates/posts/post_item.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.018952062">
+              <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="post_list.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/templates/posts/post_list.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="17" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/client/templates/posts/post_item.html" />
+        <option value="$PROJECT_DIR$/client/templates/posts/post_list.js" />
+        <option value="$PROJECT_DIR$/client/templates/posts/post_item.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="microscope" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="microscope" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="microscope" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="microscope" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="microscope" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="microscope" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="microscope" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="microscope" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="microscope" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="microscope" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="microscope" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="posts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="microscope" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="microscope" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stylesheets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="HbShouldOpenHtmlAsHb" value="enabled" />
+    <property name="js.meteor.project" value="true" />
+    <property name="js.meteor.library.was.enabled" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="142d7873-8f1b-40b0-8d2e-1af0c036f5dd" name="Default" comment="" />
+      <created>1458086776885</created>
+      <option name="number" value="Default" />
+      <updated>1458086776885</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26066098" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25267094" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/client/templates/posts/posts_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/templates/posts/post_item.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/templates/posts/post_item.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/templates/posts/post_list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="17" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/templates/posts/posts_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/templates/posts/post_item.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/templates/posts/post_item.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/templates/posts/post_list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="17" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/templates/posts/posts_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/templates/posts/post_item.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/templates/posts/post_item.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/templates/posts/post_list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="17" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.meteor/packages">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/templates/posts/posts_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.576923">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/templates/posts/post_item.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.9230769">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/templates/posts/post_list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="17" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/templates/posts/post_item.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.018952062">
+          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
