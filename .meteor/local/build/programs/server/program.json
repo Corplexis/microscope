@@ -251,6 +251,14 @@
     },
     {
       "path": "packages/global-imports.js"
+    },
+    {
+      "sourceMap": "app/lib/collections/posts.js.map",
+      "path": "app/lib/collections/posts.js"
+    },
+    {
+      "sourceMap": "app/server/fixtures.js.map",
+      "path": "app/server/fixtures.js"
     }
   ]
 }

@@ -583,6 +583,17 @@
       "hash": "cc1f30daad9cb30b6bc26338225d76197cc75bc3"
     },
     {
+      "path": "app/lib/collections/posts.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/app/lib/collections/posts.js?681764e8e476f6a08580b4b59d46a081557b9ae3",
+      "sourceMap": "app/lib/collections/posts.js.map",
+      "sourceMapUrl": "/app/lib/collections/681764e8e476f6a08580b4b59d46a081557b9ae3.map",
+      "size": 624,
+      "hash": "681764e8e476f6a08580b4b59d46a081557b9ae3"
+    },
+    {
       "path": "app/client/templates/posts/post_item.js",
       "where": "client",
       "type": "js",
@@ -598,11 +609,11 @@
       "where": "client",
       "type": "js",
       "cacheable": true,
-      "url": "/app/client/templates/posts/post_list.js?9ac98c798bc710ea119a207e48fc01704710b7a5",
+      "url": "/app/client/templates/posts/post_list.js?0b718f3ea2af9a3b29727e17f85957a91dafa0f5",
       "sourceMap": "app/client/templates/posts/post_list.js.map",
-      "sourceMapUrl": "/app/client/templates/posts/9ac98c798bc710ea119a207e48fc01704710b7a5.map",
-      "size": 1532,
-      "hash": "9ac98c798bc710ea119a207e48fc01704710b7a5"
+      "sourceMapUrl": "/app/client/templates/posts/0b718f3ea2af9a3b29727e17f85957a91dafa0f5.map",
+      "size": 924,
+      "hash": "0b718f3ea2af9a3b29727e17f85957a91dafa0f5"
     },
     {
       "path": "app/client/main.js",
